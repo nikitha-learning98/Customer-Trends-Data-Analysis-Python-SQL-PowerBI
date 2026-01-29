@@ -1,9 +1,9 @@
 # Customer Shopping Behavior Analysis
 
-## 1. Project Overview
+## 📊 Project Overview
 This project analyzes transactional data to uncover spending patterns, customer segments, and product preferences. By leveraging a full data pipeline—from Python-based ETL to SQL analysis and Power BI visualization—the study provides actionable insights into subscription behavior and revenue optimization.
 
-## 2. Tech Stack
+## 🛠️  Tech Stack
 
 ### Exploratory Data Analysis (EDA)
 * **Jupyter Notebook**: Primary environment for data cleaning and initial statistical testing.
@@ -21,7 +21,7 @@ This project analyzes transactional data to uncover spending patterns, customer 
 
 ---
 
-## 3. Project Workflow
+## 🚀 Project Workflow
 
 ### Phase 1: Data Preparation & Cleaning
 * **Audit**: Conducted a thorough check using `df.info()` and `.describe()` to understand data distributions and identify 37 missing values in the `Review Rating` column.
