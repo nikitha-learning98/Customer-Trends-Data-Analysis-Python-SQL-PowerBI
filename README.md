@@ -42,10 +42,28 @@ This project analyzes transactional data to uncover spending patterns, customer 
 
 ### Phase 4: Data Visualization & Strategy
 * **Modeling**: Engineered the data model in Power BI to support interactive drilling by category and subscription status.
-* **Final Output**: Transformed raw metrics into a strategic dashboard, culminating in business recommendations for loyalty programs and targeted marketing.
+* **Final Output**: Transformed raw metrics into a strategic dashboard.
 
+![Preview](https://github.com/nikitha-learning98/Customer-Trends-Data-Analysis-Python-SQL-PowerBI/blob/main/Customer_Behavior_Dashboard.png)
 
+---
 
+## 💡 Key Findings & Recommendations
+
+### 📊 Key Insights
+* **Revenue Leaders**: Male customers are currently the top spenders, generating more total revenue than female customers.
+* **Shipping Habits**: There is no major difference in average spending between **Standard** and **Express** shipping. This means customers aren't necessarily buying more just because they want it faster.
+* **The Subscription Gap**: Most of the company’s revenue comes from **non-subscribers**. More importantly, **repeat buyers are not yet subscribed**, which is a missed opportunity for guaranteed monthly income.
+* **Top Products**: Identified the **Top 5 highest-rated products** and the **Top 3 products in every category** to show exactly what customers love most.
+* **Discount Dependency**: Found 5 products that are almost always bought with a discount. This helps the business see which items might struggle to sell at full price.
+
+### 🚀 Business Recommendations
+* **Target Repeat Buyers**: Create a special "Loyalty-to-Subscriber" promotion. Since these customers already shop frequently, a small discount might convince them to sign up for a permanent subscription.
+* **Marketing Focus**: Focus advertising on the **Top 5 highest-rated products** to attract new customers with items that have proven quality.
+* **Optimize Shipping**: Since Express shipping doesn't increase order size, consider offering "Free Express Shipping" only for orders above a certain dollar amount to encourage bigger purchases.
+* **Review Discount Strategy**: For the 5 "discount-dependent" products, try testing different marketing angles to see if they can sell without heavy price cuts, protecting the company's profit margins.
+
+---
 
 Reference: The dataset utilized in this project were sourced from a Youtube tutorial.
 
